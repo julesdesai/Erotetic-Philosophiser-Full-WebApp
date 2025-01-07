@@ -1,0 +1,8 @@
+Summarize the user's philosophical journey and final position based on these responses:
+{user_positions}
+
+Create a brief summary that:
+1. Outlines their main position on the central question
+2. Identifies key insights they developed
+3. Notes any remaining areas for exploration
+4. Keeps the summary concise (max 4 sentences)

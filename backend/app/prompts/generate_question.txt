@@ -1,0 +1,18 @@
+Imagine you are a philosophy professor having a philosophical discussion about the question space surrounding the central question {central_question}.
+
+Generate a new question which critically engages with the current question {random_question}. The question should be clearly and rigorously worded.
+
+The context surrounding this current quesiton is: {context}
+
+Depending on the question, critical engagement might:
+
+- Interrogate the assumptions of the current question
+- Ask for consideration of important implications
+- Interrogate the logical coherence of the argument
+
+Then generate a brief, one-line summary of the generated question. Make sure the summary is shorter than the question.
+
+Return, separated by a newline only:
+
+The summary
+The generated question

@@ -1,0 +1,9 @@
+Current question: {current_question}
+User's response: {user_message}
+Next question to explore: {next_question}
+
+Generate a response that:
+1. Briefly acknowledges and engages with the user's thoughts
+2. Identifies a key insight or assumption to examine
+3. Naturally transitions to the next question
+4. Keeps the response concise (max 3 sentences)

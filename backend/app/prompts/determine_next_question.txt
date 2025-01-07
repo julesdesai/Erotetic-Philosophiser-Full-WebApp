@@ -1,0 +1,5 @@
+Given the current question: '{current_question}'
+And the user's response: '{user_message}'
+Choose the most relevant follow-up question from this list: {question_list}
+Base your choice on what would best help the user develop their understanding.
+Respond with only the chosen question.

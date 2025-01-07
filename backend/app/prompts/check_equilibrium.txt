@@ -1,0 +1,11 @@
+Review the user's positions on various questions:
+{user_positions}
+
+Determine if the user has reached erotetic equilibrium by checking if:
+1. Their positions are internally consistent
+2. They've addressed key underlying assumptions
+3. They've explored important implications
+4. Their views show nuanced understanding
+5. They have considered and satisfactorily defused all relevant criticism
+
+Respond with only 'true' or 'false'.
